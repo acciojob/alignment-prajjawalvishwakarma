@@ -1,1 +1,37 @@
 /*  your css code here. If applicable */
+h1 {
+  text-align: center;
+}
+.middle{
+  width: 80%;
+  margin: 0 auto 30px auto;;
+  border: 1px solid black;  /* table border */
+  border-spacing: 1px; 
+}
+td {
+      border: 1px solid black;   /* border for each cell */
+      padding: 1px;              /* cell padding */
+	  
+    }
+.center{
+	text-align: center;  
+}
+.right{
+	text-align: right;  
+}
+#table-2 td{
+	padding: 8px 12px;
+}
+.green{
+	background-color: green;
+	padding: 8px 12px;
+}
+
+.blue{
+	background-color: blue;
+	padding: 8px 12px;
+}
+#t-image{
+	padding: 50px 12px;
+	text-align: center;
+}
